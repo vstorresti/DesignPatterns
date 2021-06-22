@@ -1,3 +1,5 @@
+using System;
+
 namespace Adapter
 {
     public class LogNetMasterService : ILogNetMaster
